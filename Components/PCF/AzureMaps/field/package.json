@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@types/adal-angular": "1.0.1",
-    "@types/lodash": "^4.14.136",
+    "@types/lodash": "^4.17.6",
     "@types/node": "^10.12.18",
     "@types/powerapps-component-framework": "1.1.0",
     "azure-maps-control": "^2.0.2",
